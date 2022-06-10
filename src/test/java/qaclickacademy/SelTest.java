@@ -8,5 +8,8 @@ public class SelTest {
 	public void sel()
 	{
 		System.out.println("eiebe");
+		System.out.println("apFFDp");
+		System.out.println("appDDDDDBDDDDDD");
+
 	}
 }
