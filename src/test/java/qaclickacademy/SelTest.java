@@ -5,9 +5,9 @@ import org.junit.Test;
 public class SelTest {
 
 	@Test
-	public void sel()
+	public void sefl()
 	{
-		System.out.println("eiebe");
+		System.out.println("eff ffiebe");
 		System.out.println("apFFDp");
 		System.out.println("appDDDDDBDDDDDD");
 

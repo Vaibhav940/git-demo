@@ -5,12 +5,12 @@ import org.junit.Test;
 public class appTest {
 
 	@Test
-	public void app()
+	public void afpp()
 	{
 		
-		System.out.println("app");
+		System.out.println("apffvp");
 		System.out.println("apFFp");
-		System.out.println("appDDDDDDDDDD");
+		System.out.println("appDfffvfvDDDDDDDDD");
 
 
 	}
